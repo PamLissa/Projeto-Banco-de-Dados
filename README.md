@@ -8,3 +8,6 @@ Entrega 1/4
 
 ## Modelo Relacional
 Entrega 2/4
+
+## Inserção
+Entrega 3/4
