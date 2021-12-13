@@ -11,3 +11,6 @@ Entrega 2/4
 
 ## Inserção
 Entrega 3/4
+
+## Consulta
+Entrega 4/4
